@@ -1,7 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/proxy/organisaties", "destination": "/api/organisaties" },
-    { "source": "/proxy/token",        "destination": "/api/token" },
-    { "source": "/proxy/api",          "destination": "/api/somtoday" }
-  ]
-}
